@@ -18,7 +18,7 @@ local library = {
 		main = Color3.fromRGB(128, 240, 255),
 		background = Color3.fromRGB(40, 40, 40),
 		outerBorder = Color3.fromRGB(144, 137, 137),
-		innerBorder = Color3.fromRGB(73, 63, 73),
+		innerBorder = Color3.fromRGB(151, 20, 128),
 		topGradient = Color3.fromRGB(35, 35, 35),
 		bottomGradient = Color3.fromRGB(29, 29, 29),
 		sectionBackground = Color3.fromRGB(35, 34, 34),
@@ -32,7 +32,7 @@ local library = {
 		unhoveredOptionTop = Color3.fromRGB(50, 50, 50),
 		hoveredOptionBottom = Color3.fromRGB(45, 45, 45),
 		unhoveredOptionBottom = Color3.fromRGB(35, 35, 35),
-		tabText = Color3.fromRGB(185, 185, 185)
+		tabText = Color3.fromRGB(151, 20, 128)
 	},
 	gui_parent = (function()
 		local x, c = pcall(function()
